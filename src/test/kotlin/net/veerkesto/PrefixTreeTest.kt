@@ -1,4 +1,4 @@
-package veer66
+package net.veerkesto
 
 import org.junit.Test
 import org.junit.Assert
